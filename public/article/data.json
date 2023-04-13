@@ -18,6 +18,12 @@
     "url" : "https://yoonjong-park.tistory.com/entry/React-Test-Material-UI-mui-React-Testing-Library-%EC%A0%81%EC%9A%A9-%EA%B0%84-%EC%96%B4%EB%A0%A4%EC%9A%B4-%EC%A0%90-%ED%9A%8C%EA%B3%A0"
   },
   {
+    "id": 4,
+    "title": "[펌] 테스트 주요 원칙 - 테스트 코드를 왜 그리고 어떻게 작성해야 할까?",
+    "description" : "내부 구현은 하지 말고 결과를 검증하자. 중첩도를 낮추고 하나씩 주체적인 테스트가 되도록 하자.",
+    "url" : "https://tech.inflab.com/20230404-test-code/"
+  },
+  {
     "id": 8,
     "title" : "React Router V6 Guide (Basic) - 부제 : v6 변경점",
     "description" : "Router는 props로 꽤 많은 기능을 포함하고 있는 것을 알 수 있다. Router 컴포넌트는 기본적으로 리액트의 context provider 기능을 포함시키고 있다. 그래서 routing 정보를 대부분의 자식 요소와 공유하게 된다.",
